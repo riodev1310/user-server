@@ -23,3 +23,5 @@ supabase
 # =========================
 pydantic
 pydantic-settings
+PyJWT>=2.8,<3
+python-dotenv>=1,<2
